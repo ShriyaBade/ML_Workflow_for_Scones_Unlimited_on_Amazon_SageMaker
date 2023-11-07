@@ -1,0 +1,2 @@
+# ML_Workflow_for_Scones_Unlimited_on_Amazon_SageMaker
+Building an image classification model that can automatically detect which kind of vehicle delivery drivers have, in order to route them to the correct loading bay and orders. Assigning delivery professionals who have a bicycle to nearby orders and giving motorcyclists orders that are farther can help Scones Unlimited optimize their operations.
