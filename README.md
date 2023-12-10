@@ -1,6 +1,5 @@
 # ML Workflow for Scones Unlimited on Amazon SageMaker
-
-Welcome to the ML Workflow for Scones Unlimited project! As a Machine Learning Engineer at Scones Unlimited, you'll be embarking on a journey to build an image classification model that can distinguish between bicycles and motorcycles. This model will have a multitude of applications, from optimizing delivery routes to identifying defects in products. With the power of AWS SageMaker, Lambda functions, and Step Functions, you'll create an end-to-end ML workflow that's scalable, efficient, and dependable. 🛠️📷
+Building an image classification model that can distinguish between bicycles and motorcycles. This model will have a multitude of applications, from optimizing delivery routes to identifying defects in products. With the power of AWS SageMaker, Lambda functions, and Step Functions, I created an end-to-end ML workflow that's scalable, efficient, and dependable. 🛠️📷
 
 ## Getting Started
 
